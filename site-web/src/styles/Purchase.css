@@ -1,0 +1,26 @@
+.purchase {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    gap: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: var(--accent-color);
+    width: 300px;
+}
+
+.cost {
+    font-weight: bold;
+}
+
+.purchased-products {
+    display: flex;
+    justify-content: space-between;
+}
+
+.refund {
+    background-color: var(--lighter-pink);
+    border-color: red;
+    border-style: solid;
+    color: red;
+}

@@ -1,0 +1,9 @@
+.description {
+    margin-left: 4.5vw;
+    margin-top: 2vh;
+}
+
+.description-wrapper{
+    display: flex;
+    justify-content: center;
+}

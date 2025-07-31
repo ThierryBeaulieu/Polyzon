@@ -1,0 +1,41 @@
+.product-page {
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+    padding-bottom: 5px;
+}
+
+.product-page img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.product-page-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 30px;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 5vh;
+}
+
+.h2-padding-removed {
+    padding: 0;
+}
+
+.purchase-buttons-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.buy-now {
+    background-color: var(--button-buy-now);
+}
+
+.from-product-page {
+    width: 180px;
+}

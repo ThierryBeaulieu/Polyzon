@@ -1,0 +1,48 @@
+:root {
+    --primary-color: rgb(227, 229, 229);
+    --button-base-color: rgb(240, 168, 66);
+    --button-base-color-hover: rgb(218, 156, 69);
+    --button-remove-color: rgb(164, 164, 164);
+    --button-remove-color-hover: rgb(125, 125, 125);
+    --button-delete-color: rgb(255, 205, 205);
+    --button-buy-now: rgb(240, 147, 66);
+    --button-buy-now-hover: rgb(237, 136, 45);
+    --accent-color: rgb(20, 25, 32);
+    --button-deactivated: rgb(191, 191, 191);
+    --lighter-pink: rgb(245, 205, 205);
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: 'Nunito Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--primary-color)
+}
+
+#container {
+    margin-bottom: 80px;
+}
+
+.base-button {
+    background-color: var(--button-base-color);
+    border-style: none;
+    height: 30px;
+    border-radius: 28px;
+    cursor: pointer;
+}
+
+.add-to-cart {
+    width: 75%;
+}
+
+.remove-from-cart {
+    background-color: var(--button-remove-color);
+    width: 75%;
+}

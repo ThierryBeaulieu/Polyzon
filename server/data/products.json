@@ -1,0 +1,76 @@
+{
+  "products" : [
+  {
+    "id": "0",
+    "name": "Savon à main",
+    "description": "Savon à main organique 100% biologique",
+    "price": 14.99,
+    "stars": 4.5,
+    "thumbnail": "assets/savon1.jpeg"
+  },
+  {
+    "id": "1",
+    "name": "Barre de savon",
+    "description": "Barre de savon pour les mains 100% biologique",
+    "price": 12.99,
+    "stars": 4,
+    "thumbnail": "assets/savon2.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Crème pour le visage",
+    "description": "Crème pour le visage fait de crème 35%",
+    "price": 19.99,
+    "stars": 5,
+    "thumbnail": "assets/creme.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Chandail en cotton",
+    "description": "Chandail fait de cotton, 100% fait de matériel réutilisable",
+    "price": 59.99,
+    "stars": 3.5,
+    "thumbnail": "assets/chandail.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Caméra numérique",
+    "description": "Caméra numérique avec bandoulière rouge",
+    "price": 399.99,
+    "stars": 4,
+    "thumbnail": "assets/camera.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Veste de cotton",
+    "description": "Veste de cotton avec boutons",
+    "price": 55.99,
+    "stars": 2.5,
+    "thumbnail": "assets/chandail2.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "Crème pour les mains",
+    "description": "Crème pour les mains biologique. Permet une grande hydradation. Parfait pour les personnes avec les mains sèches.",
+    "price": 29.99,
+    "stars": 3.5,
+    "thumbnail": "assets/creme2.jpeg"
+  },
+  {
+    "id": "7",
+    "name": "Huiles essentielles",
+    "description": "Huiles d'olive extra-vierge pour le visage, les mains et le corps.",
+    "price": 9.99,
+    "stars": 3,
+    "thumbnail": "assets/huile.jpeg"
+  },
+  {
+    "id": "8",
+    "name": "Sac à main",
+    "description": "Sac à main fait de cuir synthétique",
+    "price": 129.99,
+    "stars": 4,
+    "thumbnail": "assets/sac.jpeg"
+  }
+]
+}

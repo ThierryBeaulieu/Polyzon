@@ -1,0 +1,43 @@
+header {
+    background-color: var(--accent-color);
+    color: white;
+}
+
+nav {
+    min-width: 735px;
+}
+
+header nav > ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+header nav > ul > li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0px 20px 0px 20px;
+}
+
+.nav-link {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-link:hover {
+    text-decoration-line: underline;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#logoPolyZonWhite {
+    width: 110px;
+    padding-top: 10px;
+}
+
+.shopping-cart {
+    padding-right: 5px;
+}

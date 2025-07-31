@@ -1,0 +1,15 @@
+.card {
+    padding: 2em;
+}
+
+.available-products {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h2 {
+    padding-left: 4vw;
+}
