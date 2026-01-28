@@ -1,5 +1,7 @@
 # TP4 PolyZon
 
+![Page de panier](Doc/20241_tp4_cart.png)
+
 # Mise en context et objectifs du travail pratique
 
 Le but de ce travail pratique est de vous familiariser avec le développement d'une application web _full stack_ utilisant une base de données pour assurer la persistance des données. Pour ce faire, vous utiliserez la librairie _React_ pour le côté client et vous vous connecterez à une base de données _MongoDB_ à partir d'un environnement _NodeJS_ pour le côté serveur.
