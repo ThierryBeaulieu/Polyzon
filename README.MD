@@ -1,6 +1,6 @@
 # TP4 PolyZon
 
-![Page de panier](Doc/20241_tp4_cart.png)
+![Page principale](Doc/20241_tp4_home.png)
 
 # Mise en context et objectifs du travail pratique
 
